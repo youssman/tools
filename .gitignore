@@ -1,0 +1,5 @@
+/third_party
+*.DS_Store
+[Tt]humbs.db
+~$*
+.svn
