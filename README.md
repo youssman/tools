@@ -39,6 +39,8 @@ Please check [brew cask](https://github.com/caskroom/homebrew-cask) to install a
 
 ## Terminal
 
+You can see setup [here](https://github.com/youssman/Terminal-config)
+
 ## Plugins
 
 ### Sublime Text 3
